@@ -1,0 +1,11 @@
+{
+  "name": "focus-pomodoro-timer",
+  "version": "1.0.0",
+  "description": "Aplicação de temporizador pomodoro",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "luan-tomiozzo",
+  "license": "MIT"
+}
